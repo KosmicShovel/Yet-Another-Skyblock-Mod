@@ -12,3 +12,4 @@ SKULL_ITEM:Null
 PET_ITEM_TIER_BOOST_DROP:Tier_Boost_Core
 POTATO_BASKET:Basket_of_Hope_from_the_Great_Potato_War
 LEGEND_ROD:Rod_of_Legends
+PET_ITEM_TIER_BOOST:Tier_Boost
