@@ -6,3 +6,4 @@ DUNGEON_STONE:Dungeons#Classes
 AATROX_BATPHONE:Maddox_Batphone
 SUPERBOOM_TNT:Superboom_TNT
 ASPECT_OF_THE_END:Aspect_of_the_End
+CRYPT_DREADLORD_SWORD:Dreadlord_Sword
