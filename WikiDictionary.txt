@@ -9,3 +9,4 @@ ASPECT_OF_THE_END:Aspect_of_the_End
 CRYPT_DREADLORD_SWORD:Dreadlord_Sword
 DUNGEON_LORE_PAPER:Journal_Entry
 SKULL_ITEM:Null
+PET_ITEM_TIER_BOOST_DROP:Tier_Boost_Core
