@@ -10,3 +10,4 @@ CRYPT_DREADLORD_SWORD:Dreadlord_Sword
 DUNGEON_LORE_PAPER:Journal_Entry
 SKULL_ITEM:Null
 PET_ITEM_TIER_BOOST_DROP:Tier_Boost_Core
+POTATO_BASKET:Basket_of_Hope_from_the_Great_Potato_War
