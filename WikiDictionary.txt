@@ -14,3 +14,4 @@ POTATO_BASKET:Basket_of_Hope_from_the_Great_Potato_War
 LEGEND_ROD:Rod_of_Legends
 PET_ITEM_TIER_BOOST:Tier_Boost
 FLYCATCHER_UPGRADE:Flycatcher
+CREEPER_LEGGINGS:Creeper_Pants
