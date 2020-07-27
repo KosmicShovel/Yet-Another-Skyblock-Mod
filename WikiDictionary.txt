@@ -2,4 +2,4 @@ ASPECT_OF_THE_DRAGON:Aspect_of_the_Dragons
 SKELETON_HELMET:Skeleton's_Helmet
 RUNAANS_BOW:Runaan's_Bow
 TREECAPITATOR_AXE:Treecapitator
-DUNGEON_STONE:Dungeons#Classes
+Dungeon_Stone:Dungeons#Classes
