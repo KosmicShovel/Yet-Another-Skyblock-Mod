@@ -8,3 +8,4 @@ SUPERBOOM_TNT:Superboom_TNT
 ASPECT_OF_THE_END:Aspect_of_the_End
 CRYPT_DREADLORD_SWORD:Dreadlord_Sword
 DUNGEON_LORE_PAPER:Journal_Entry
+SKULL_ITEM:Null
