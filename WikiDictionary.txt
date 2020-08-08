@@ -15,3 +15,4 @@ LEGEND_ROD,Rod_of_Legends
 PET_ITEM_TIER_BOOST,Tier_Boost
 FLYCATCHER_UPGRADE,Flycatcher
 CREEPER_LEGGINGS,Creeper_Pants
+ICE_HUNK,Hunk_of_Ice
